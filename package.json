@@ -1,0 +1,12 @@
+{
+  "name": "nextest",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.3.4",
+    "bson": "^7.3.1"
+  }
+}
